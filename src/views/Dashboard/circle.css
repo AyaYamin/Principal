@@ -1,0 +1,29 @@
+#app {
+    margin-top: 40px;
+  }
+  
+  #progressInput {
+    margin: 10 auto;
+    width: 100%;
+  }
+  
+  .circle-background,
+  .circle-progress2 {
+    fill: none;
+  }
+  
+  .circle-background {
+    stroke: #ddd;
+  }
+  
+  .circle-progress2 {
+    stroke: rgb(18, 233, 11);
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  
+  .circle-text2 {
+    font-size: 1sem;
+    font-weight: bold;
+    fill: rgb(18, 233, 11);
+  }
